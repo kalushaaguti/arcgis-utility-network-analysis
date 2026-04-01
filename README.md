@@ -36,7 +36,7 @@ The workflow includes creating network features, establishing connectivity and s
   - Transformer
 - Applied terminal configurations
 
-![Associations](screenshots/associations.jpg)
+![Associations](screenshots/connectivity_associations.jpg)
 
 ---
 
@@ -44,7 +44,7 @@ The workflow includes creating network features, establishing connectivity and s
 - Performed connected trace to verify network connectivity
 - Identified correctly connected and disconnected features
 
-![Trace](screenshots/trace.jpg)
+![Trace](screenshots/trace_results.jpg)
 
 ---
 
