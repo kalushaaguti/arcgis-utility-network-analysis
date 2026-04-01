@@ -19,7 +19,7 @@ The workflow includes creating network features, establishing connectivity and s
 - Created connection points, medium voltage lines, fuse, and transformer
 - Modified feature templates to enforce correct attributes
 
-![Features](screenshots/connection_points.png)
+![Features](screenshots/connection_points.jpg)
 
 ---
 
@@ -36,7 +36,7 @@ The workflow includes creating network features, establishing connectivity and s
   - Transformer
 - Applied terminal configurations
 
-![Associations](screenshots/associations.png)
+![Associations](screenshots/associations.jpg)
 
 ---
 
@@ -44,7 +44,7 @@ The workflow includes creating network features, establishing connectivity and s
 - Performed connected trace to verify network connectivity
 - Identified correctly connected and disconnected features
 
-![Trace](screenshots/trace.png)
+![Trace](screenshots/trace.jpg)
 
 ---
 
